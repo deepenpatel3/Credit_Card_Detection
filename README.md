@@ -10,5 +10,5 @@
 
 
 #### Class diagram of the architecture:
-![Screen Shot 2020-04-23 at 9 08 41 PM](https://user-images.githubusercontent.com/52833369/80174421-72c88d00-85a7-11ea-9321-6ad2d23de5a7.png)
+![image](https://user-images.githubusercontent.com/52833369/98455950-ff91fd00-212b-11eb-8f2b-6e6faff38d77.png)
 
